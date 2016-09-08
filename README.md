@@ -2,8 +2,8 @@
 
 Some helpful information to get started using Git and GitHub
 
-https://help.github.com/
+Overall resource for any questions: https://help.github.com/
 
-https://git-scm.com/
+Git official website: https://git-scm.com/
 
-https://www.cygwin.com/
+Command line for Windows: https://www.cygwin.com/
