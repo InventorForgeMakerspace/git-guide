@@ -7,3 +7,5 @@ Overall resource for any questions: https://help.github.com/
 Git official website: https://git-scm.com/
 
 Command line for Windows: https://www.cygwin.com/
+
+**Do not put passwords in files that you check in!** Speak to Bobby if you need to do this, we can figure something out
